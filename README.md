@@ -24,26 +24,26 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,c,html,css,gcp,vscode,mysql,github,git" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,html,css,gcp,vscode,mysql,github,tensorflow" />
 </p>
 
 ---
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" /> Skills
 
- 🧮 Data Skills
-- Analysis & Visualization: Data cleansing, aggregation, actionable insights, dashboards using Tableau, R Markdown.
-- Programming: Python, R, SQL for data manipulation and analytics.
-- Spreadsheet Expertise: Advanced proficiency in Excel and Google Sheets.
+🧮 Data Skills
 
- 📊 Technical Expertise
-- Metadata Management: Structuring, organizing, and ensuring data integrity.
-- R Programming: Statistical analysis and modeling in RStudio.
-- SQL Mastery: Database querying, optimization, and data modeling.
+~ Data analysis, visualization, and programming (Python, R, SQL).
+~ Advanced Excel and Google Sheets.
 
- 💡 Professional Skills
-- Decision-Making & Problem-Solving: Turning data into meaningful solutions.
-- Presentation: Delivering compelling data stories with clarity and precision.
-- Data Ethics: Maintaining integrity and compliance across workflows.
+📊 Technical Skills
+
+~ Data organization and management.
+~ RStudio and SQL expertise.
+
+💡 Professional Skills
+
+~ Problem-solving and clear presentation.
+~ Ethical handling of data.
 
 ---
 
