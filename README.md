@@ -24,7 +24,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,c,html,css,gcp,googlesheets,sql,github,git" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,html,css,gcp,vscode,mysql,github,git" />
 </p>
 
 ---
