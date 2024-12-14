@@ -15,7 +15,7 @@
   - 📫 Reach me through <a href="mailto:ishika.sahajuly21@gmail.com">Email</a>.<br>
 </em></p>
 
-![](https://komarev.com/ghpvc/?username=thecurryguy&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Ish-i-ka&color=blueviolet&style=flat-square)
 [![Instagram: Ishika](https://img.shields.io/badge/Instagram-ishikaafr-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ishikaafr) 
 [![Linkedin: Ishika Saha](https://img.shields.io/badge/-ishika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecurryguy/)](https://www.linkedin.com/in/ishika-saha-733b8b24b/)
 [![GitHub Ishika Saha](https://img.shields.io/github/followers/ishika?label=follow&style=social)](https://github.com/Ish-i-ka)
