@@ -1,4 +1,6 @@
-![cool](https://drive.google.com/uc?id=1GA7cDibXc9fYRniCOLRqfdcvpQ7sgchp)
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1GA7cDibXc9fYRniCOLRqfdcvpQ7sgchp" alt="cool gif">
+</p>
 
 # Hi, I'm Ishika Saha! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />  
 
