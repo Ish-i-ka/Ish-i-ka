@@ -33,16 +33,19 @@
 🧮 Data Skills
 
 ~ Data analysis, visualization, and programming (Python, R, SQL).
+
 ~ Advanced Excel and Google Sheets.
 
 📊 Technical Skills
 
 ~ Data organization and management.
+
 ~ RStudio and SQL expertise.
 
 💡 Professional Skills
 
 ~ Problem-solving and clear presentation.
+
 ~ Ethical handling of data.
 
 ---
